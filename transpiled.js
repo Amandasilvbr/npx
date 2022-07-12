@@ -1,1 +1,1 @@
-console.log(`Testando NPM e NPM`);
+console.log(`Testando NPM e NPX`);
