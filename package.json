@@ -1,0 +1,19 @@
+{
+  "name": "npx-e-npmscripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NPX",
+    "NPM"
+  ],
+  "author": "Amanda",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.18.6",
+    "@babel/core": "^7.18.6"
+  }
+}
